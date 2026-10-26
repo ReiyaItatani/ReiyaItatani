@@ -29,4 +29,4 @@ Unity, Unreal Engine, C#, Meta XR SDK, Photon Fusion, Python, Three.js
 
 ### Links
 
-[Website](https://reiyaitatani.work/en/) · [LinkedIn](https://www.linkedin.com/in/reiyaitatani/) · [ResearchGate](https://www.researchgate.net/profile/Reiya-Itatani) · [Devpost](https://devpost.com/reiya-itatani)
+[Website](https://reiyaitatani.work/en/) · [LinkedIn](https://www.linkedin.com/in/reiyaitatani/) · [ResearchGate](https://www.researchgate.net/profile/Reiya-Itatani)
