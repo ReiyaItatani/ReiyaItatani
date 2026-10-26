@@ -13,6 +13,8 @@ I work on crowd simulation, virtual and mixed reality, and how people perceive a
   R. Itatani, N. Pelechano. *Computers & Graphics 2025* (extended from *MIG 2024*, Best Student Paper Honorable Mention)
 - **Body Ownership and Vicarious Agency: Behavioural Consequences in a Virtual Reality Rock Concert**
   R. Itatani, G. Senel, A. S. Topcu, M. Slater. *Consciousness and Cognition 2025*
+- **Counterclockwise Virtual Reality–Based Embodiment of a Younger Self and Revisit of a Past Iconic Event in Older Adults: Between-Groups Study of Cognitive and Physical Performance**
+  D. Banakou, R. Itatani, R. Montserrat, C. Porta-Mas, D. Bartrés-Faz, E. Bodner, M. Mataro, M. Slater. *JMIR Formative Research 2026*
 
 Full list on my [website](https://reiyaitatani.work/en/).
 
